@@ -1,0 +1,519 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.20)  6 MAY 2013 15:45
+entering extended mode
+**Verslag.tex
+("C:\Users\Niels\Dropbox\Snijdende Cirkels\Verslag.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\dutch.ldf"
+Language: dutch 2005/03/30 v3.8i Dutch support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+Package babel Info: Making " an active character on input line 132.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen104
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks17
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks18
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count101
+\Gm@cntv=\count102
+\c@Gm@tempcnt=\count103
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks22
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithm.sty"
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks23
+\float@box=\box28
+\@float@everytoks=\toks24
+\@floatcapt=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count105
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\algorithms\algorithmic.sty"
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count106
+\c@ALC@line=\count107
+\c@ALC@rem=\count108
+\c@ALC@depth=\count109
+\ALC@tlm=\skip46
+\algorithmicindent=\skip47
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+("C:\Users\Niels\Dropbox\Snijdende Cirkels\Verslag.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=50.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen123
+\scratchbox=\box30
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen124
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks27
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+) [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+<2cirkels.png, id=8, 602.25pt x 351.3125pt>
+File: 2cirkels.png Graphic file (type png)
+ <use 2cirkels.png>
+Package pdftex.def Info: 2cirkels.png used on input line 40.
+(pdftex.def)             Requested size: 542.01999pt x 316.17831pt.
+
+Overfull \hbox (58.32312pt too wide) in paragraph at lines 40--41
+[][] 
+ []
+
+[1 <C:/Users/Niels/Dropbox/Snijdende Cirkels/2cirkels.png>] [2] [3]
+<timebenchmark/new_timeBenchmark0.01.png, id=26, 501.875pt x 501.875pt>
+File: timebenchmark/new_timeBenchmark0.01.png Graphic file (type png)
+
+<use timebenchmark/new_timeBenchmark0.01.png>
+Package pdftex.def Info: timebenchmark/new_timeBenchmark0.01.png used on input 
+line 120.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<timebenchmark/new_timeBenchmark0.1.png, id=28, 501.875pt x 501.875pt>
+File: timebenchmark/new_timeBenchmark0.1.png Graphic file (type png)
+
+<use timebenchmark/new_timeBenchmark0.1.png>
+Package pdftex.def Info: timebenchmark/new_timeBenchmark0.1.png used on input l
+ine 121.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 120--122
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--129
+
+ []
+
+[4 <C:/Users/Niels/Dropbox/Snijdende Cirkels/timebenchmark/new_timeBenchmark0.0
+1.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/timebenchmark/new_timeBenchmar
+k0.1.png>]
+<countbenchmarks/new_countBenchmark0.01.png, id=34, 501.875pt x 501.875pt>
+File: countbenchmarks/new_countBenchmark0.01.png Graphic file (type png)
+
+<use countbenchmarks/new_countBenchmark0.01.png>
+Package pdftex.def Info: countbenchmarks/new_countBenchmark0.01.png used on inp
+ut line 135.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<countbenchmarks/new_countBenchmark0.1.png, id=35, 501.875pt x 501.875pt>
+File: countbenchmarks/new_countBenchmark0.1.png Graphic file (type png)
+
+<use countbenchmarks/new_countBenchmark0.1.png>
+Package pdftex.def Info: countbenchmarks/new_countBenchmark0.1.png used on inpu
+t line 136.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 135--137
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+
+<intersectbenchmarks/new_intersectBenchmark0.01.png, id=36, 501.875pt x 501.875
+pt>
+File: intersectbenchmarks/new_intersectBenchmark0.01.png Graphic file (type png
+)
+ <use intersectbenchmarks/new_intersectBenchmark0.01.png>
+Package pdftex.def Info: intersectbenchmarks/new_intersectBenchmark0.01.png use
+d on input line 152.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<intersectbenchmarks/new_intersectBenchmark0.1.png, id=37, 501.875pt x 501.875p
+t>
+File: intersectbenchmarks/new_intersectBenchmark0.1.png Graphic file (type png)
+
+ <use intersectbenchmarks/new_intersectBenchmark0.1.png>
+Package pdftex.def Info: intersectbenchmarks/new_intersectBenchmark0.1.png used
+ on input line 153.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 152--154
+[][] [] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <C:/Users/Niels/Dropbox/Snijdende Cirkels/countbenchmarks/new_countBenchmark
+0.01.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/countbenchmarks/new_countBe
+nchmark0.1.png>]
+<timebenchmark/new_timeBenchmark0.2.png, id=43, 501.875pt x 501.875pt>
+File: timebenchmark/new_timeBenchmark0.2.png Graphic file (type png)
+
+<use timebenchmark/new_timeBenchmark0.2.png>
+Package pdftex.def Info: timebenchmark/new_timeBenchmark0.2.png used on input l
+ine 163.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<timebenchmark/new_timeBenchmark0.5.png, id=44, 501.875pt x 501.875pt>
+File: timebenchmark/new_timeBenchmark0.5.png Graphic file (type png)
+
+<use timebenchmark/new_timeBenchmark0.5.png>
+Package pdftex.def Info: timebenchmark/new_timeBenchmark0.5.png used on input l
+ine 164.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 163--165
+[][] [] 
+ []
+
+[6 <C:/Users/Niels/Dropbox/Snijdende Cirkels/intersectbenchmarks/new_intersectB
+enchmark0.01.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/intersectbenchmarks
+/new_intersectBenchmark0.1.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/timeb
+enchmark/new_timeBenchmark0.2.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/ti
+mebenchmark/new_timeBenchmark0.5.png>]
+<countbenchmarks/new_countBenchmark0.2.png, id=53, 501.875pt x 501.875pt>
+File: countbenchmarks/new_countBenchmark0.2.png Graphic file (type png)
+
+<use countbenchmarks/new_countBenchmark0.2.png>
+Package pdftex.def Info: countbenchmarks/new_countBenchmark0.2.png used on inpu
+t line 172.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<countbenchmarks/new_countBenchmark0.5.png, id=54, 501.875pt x 501.875pt>
+File: countbenchmarks/new_countBenchmark0.5.png Graphic file (type png)
+
+<use countbenchmarks/new_countBenchmark0.5.png>
+Package pdftex.def Info: countbenchmarks/new_countBenchmark0.5.png used on inpu
+t line 173.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 172--174
+[][] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+<intersectbenchmarks/new_intersectBenchmark0.2.png, id=55, 501.875pt x 501.875p
+t>
+File: intersectbenchmarks/new_intersectBenchmark0.2.png Graphic file (type png)
+
+ <use intersectbenchmarks/new_intersectBenchmark0.2.png>
+Package pdftex.def Info: intersectbenchmarks/new_intersectBenchmark0.2.png used
+ on input line 181.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<intersectbenchmarks/new_intersectBenchmark0.5.png, id=56, 501.875pt x 501.875p
+t>
+File: intersectbenchmarks/new_intersectBenchmark0.5.png Graphic file (type png)
+
+ <use intersectbenchmarks/new_intersectBenchmark0.5.png>
+Package pdftex.def Info: intersectbenchmarks/new_intersectBenchmark0.5.png used
+ on input line 182.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 181--183
+[][] [] 
+ []
+
+[7 <C:/Users/Niels/Dropbox/Snijdende Cirkels/countbenchmarks/new_countBenchmark
+0.2.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/countbenchmarks/new_countBen
+chmark0.5.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/intersectbenchmarks/ne
+w_intersectBenchmark0.2.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/intersec
+tbenchmarks/new_intersectBenchmark0.5.png>]
+<timebenchmark/new_timeBenchmark1.0.png, id=64, 501.875pt x 501.875pt>
+File: timebenchmark/new_timeBenchmark1.0.png Graphic file (type png)
+
+<use timebenchmark/new_timeBenchmark1.0.png>
+Package pdftex.def Info: timebenchmark/new_timeBenchmark1.0.png used on input l
+ine 189.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+<countbenchmarks/new_countBenchmark1.png, id=65, 501.875pt x 501.875pt>
+File: countbenchmarks/new_countBenchmark1.png Graphic file (type png)
+
+<use countbenchmarks/new_countBenchmark1.png>
+Package pdftex.def Info: countbenchmarks/new_countBenchmark1.png used on input 
+line 190.
+(pdftex.def)             Requested size: 250.93687pt x 250.93687pt.
+
+Overfull \hbox (20.61021pt too wide) in paragraph at lines 189--191
+[][] [] 
+ []
+
+
+Overfull \hbox (116.87071pt too wide) in paragraph at lines 200--201
+\OT1/cmr/m/n/10.95 N.N., How to cal-cu-late the in-ter-sec-tion of two cir-cles
+. In-ter-net, 3 juli 2011, (http://fypandroid.wordpress.com/2011/07/03/how-
+ []
+
+[8 <C:/Users/Niels/Dropbox/Snijdende Cirkels/timebenchmark/new_timeBenchmark1.0
+.png> <C:/Users/Niels/Dropbox/Snijdende Cirkels/countbenchmarks/new_countBenchm
+ark1.png>] ("C:\Users\Niels\Dropbox\Snijdende Cirkels\Verslag.aux") ) 
+Here is how much of TeX's memory you used:
+ 3265 strings out of 494045
+ 44162 string characters out of 3145968
+ 108049 words of memory out of 3000000
+ 6497 multiletter control sequences out of 15000+200000
+ 11997 words of font info for 45 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,7n,24p,1093b,650s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Verslag.pdf (9 pages, 432035 bytes).
+PDF statistics:
+ 106 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
